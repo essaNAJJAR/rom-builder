@@ -9,11 +9,11 @@ KBUILD_BUILD_HOST="No_one_care"
 export oem=xiaomi
 export device=whyred
 
-ROM="RR"
-manifest_url="https://github.com/PixelExperience/manifest"
+ROM="ion FE"
+manifest_url="https://github.com/i-o-n/manifest"
 export rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
 branch="ten"
 
-release_repo="Akianonymus/harpia_builds"
+release_repo="essaNAJJAR/test"
 
 timezone="Asia/syria"
